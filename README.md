@@ -1,64 +1,54 @@
+<h1 align="center">
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> , I'm Jyothishree Hiremath  
+</h1>
 
-# 💻 Hi, I'm Jyothishree Hiremath!  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Enthusiastic+VLSI+Engineer;RTL+Design;Always+Learning+%26+Innovating" alt="Typing SVG" />
+</p>
 
-<img align="right" alt="VLSI" width="300" src="https://img.icons8.com/external-flat-juicy-fish/344/external-chip-electronic-devices-flat-flat-juicy-fish.png" />
+---
+
+# 💻 About Me  
 
 🚀 **Enthusiastic and dedicated VLSI Engineer** with a Bachelor’s degree in **Electronics and Communication Engineering** from Govt. SKSJTI, Bangalore (2025).  
-I’m passionate about **digital design, RTL development, and low-power VLSI systems**, and I enjoy solving challenges in **semiconductor design and optimization**.  
+I’m passionate about digital design, RTL development and I enjoy solving challenges in semiconductor design and optimization.  
 
 ---
 
 ## 🔧 Technical Skills  
 - **HDL Languages:** Verilog  
 - **EDA Tools:** Xilinx Vivado  
-- **Simulation Tools:** PSPICE, NGSPICE  
-- **Programming Languages:** C (Basic)  
+- **Simulation Tools:** PSPICE, NGSPICE   
 - **Development Platforms:** Arduino IDE  
-- **VLSI Expertise:** Digital CMOS Design, RTL Coding, Static Timing Analysis (STA)  
+- **VLSI Expertise:** Digital Design, RTL Coding, Static Timing Analysis (STA)  
 
 ---
 
 ## 📂 Projects  
-### 🔹 Skitter-Based Voltage Variation Detector  
-Designed and analyzed in **NGSpice** and **Vivado** to detect clock instability caused by voltage fluctuations.  
-
-### 🔹 Efficient Master-Slave Flip-Flop (MSFF)  
-<img src="https://img.icons8.com/ios/344/electronics.png" alt="Flip-Flop Project" width="80"/>  
-Transmission gate MSFF with keeper logic, optimized for **Energy-Delay Product (EDP)**.  
-
-### 🔹 Comparative Design of SAFF Flip-Flop  
-Benchmarked **SAFF** vs **MSFF** for power, delay, and area trade-offs.  
-
-### 🔹 Hybrid Latch Flip-Flop (HLFF)  
-<img src="https://img.icons8.com/ios/344/circuit.png" alt="HLFF Project" width="80"/>  
-Simulated and analyzed HLFF against MSFF for **power-sensitive, high-speed systems**.  
+- ⚡ **Skitter-Based Voltage Variation Detector** – Detecting clock instability using NGSpice & Vivado.  
+- ⚡ **Efficient Master-Slave Flip-Flop (MSFF)** – Transmission gate MSFF optimized for Energy-Delay Product.  
+- ⚡ **Comparative Design of SAFF Flip-Flop** – Benchmarked SAFF vs MSFF for power, delay, and area trade-offs.  
+- ⚡ **Hybrid Latch Flip-Flop (HLFF)** – Simulated and analyzed for power-sensitive, high-speed systems.  
 
 ---
 
 ## 📌 Internship Experience  
-- **VLSI Trainee @ Eduguidance Consultancy Pvt. Ltd. (CoachED)** – Hands-on RTL design, CMOS logic, and EDA tools.  
-- **Intern @ Yuvasaarathi** – Exposure to digital electronics and introductory Verilog designs.  
-
----
-
- 
+- 🖥️ **VLSI Trainee @ Eduguidance Consultancy Pvt. Ltd. (CoachED)** – Hands-on RTL design, CMOS logic, and EDA tools.  
+- 🖥️ **Intern @ Yuvasaarathi** – Exposure to digital electronics and introductory Verilog designs.  
 
 ---
 
 ## 🎶 Hobbies  
-<img src="https://img.icons8.com/color/96/microphone.png" width="40"/> Singing  
-<img src="https://img.icons8.com/color/96/headphones.png" width="40"/> Listening to Music  
+🎤 Singing  
+🎧 Listening to Music  
 
 ---
 
 ## 📫 Connect With Me  
 <p align="left">
-  <a href="https://www.linkedin.com/in/jyothishreehiremath">
-    <img src="https://img.icons8.com/color/96/linkedin.png" width="40"/>
-  </a>
-  <a href="mailto:jyothishreehiremath03@gmail.com">
-    <img src="https://img.icons8.com/color/96/gmail-new.png" width="40"/>
-  </a>
+  <img src="https://img.icons8.com/color/96/linkedin.png" width="40"/> LinkedIn: jyothishreehiremath  
+  <br>
+  <img src="https://img.icons8.com/color/96/gmail-new.png" width="40"/> Email: jyothishreehiremath03@gmail.com  
 </p>
 
 ---
